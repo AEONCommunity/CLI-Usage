@@ -192,7 +192,7 @@ Commands:
   
   print_cn
   
-  print_coinbase_tx_sum <start_height> [<block_count>]
+  print_coinbase_tx_sum <start_height> [<block_count>] - Prints current supply of AEON coins at specified height
   
   print_height - show current blockchain height
   
